@@ -1,0 +1,1 @@
+This project is an independent educational starter project. JUCE is fetched separately from its official repository and is governed by its own license. No official Black Salt Audio branding, source code, or presets are included.
